@@ -1,3 +1,3 @@
-#This Repository contains code regarding 
+#This directory contains code regarding 
 #Javascript in the ALX SE programme
 
