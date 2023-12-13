@@ -1,2 +1,3 @@
-#SQL intro
+Project repo for alx sql projects
+
 
